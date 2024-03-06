@@ -1,3 +1,43 @@
 body {
   font-family: 'Georgia', serif;
+  background-color: #ffecec;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+nav {
+  text-align: center;
+  background-color: #d84e4e;
+  margin: 0;
+  padding: 0;
+}
+
+nav ul {
+  list-style-type: none;
+  display: inline-block;
+  padding: 0;
+  margin: 0;
+  overflow: hidden;
+  padding-top: 4px;
+}
+
+nav ul li {
+  display: inline-block;
+  float: left;
+  margin: 0;
+  padding: 0;
+}
+
+nav ul li a {
+  display: inline-block;
+  color: #fff;
+  text-align: center;
+  padding: 10px;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+nav ul li a:hover {
+  background-color: #8b4848;
 }
