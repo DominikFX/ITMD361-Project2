@@ -77,3 +77,21 @@ footer p {
   color: #fff;
   text-align: center;
 }
+
+#fav-foods {
+  background-color: #feffd5;
+  padding: 2rem;
+  padding-top: 0.5rem;
+}
+
+#fav-desserts {
+  background-color: #feffd5;
+  padding: 2rem;
+  padding-top: 0.5rem;
+}
+
+#cooking-process {
+  background-color: #feffd5;
+  padding: 2rem;
+  padding-top: 0.5rem;
+}
