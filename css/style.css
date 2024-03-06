@@ -48,6 +48,7 @@ h1 {
   font-family: 'Raleway';
   font-weight: 900;
   font-size: 2em;
+  text-align: center;
 }
 
 h2 {
@@ -65,6 +66,7 @@ p {
 
 img {
   width: 100%;
+  border-radius: 2rem;
 }
 
 footer {
@@ -81,23 +83,14 @@ footer p {
 
 #fav-foods {
   background-color: #feffd5;
-  padding: 2rem;
-  margin-top: 1rem;
-  padding-top: 0.5rem;
 }
 
 #fav-desserts {
   background-color: #ffe9d5;
-  padding: 2rem;
-  margin-top: 1rem;
-  padding-top: 0.5rem;
 }
 
 #cooking-process {
   background-color: #d5ffd8;
-  padding: 2rem;
-  margin-top: 1rem;
-  padding-top: 0.5rem;
 }
 
 .short-lists {
@@ -113,30 +106,18 @@ footer p {
 
 #contact {
   background-color: #feffd5;
-  padding: 2rem;
-  margin-top: 1rem;
-  padding-top: 0.5rem;
 }
 
 #summary {
   background-color: #ffe9d5;
-  padding: 2rem;
-  margin-top: 1rem;
-  padding-top: 0.5rem;
 }
 
 #work-experience {
   background-color: #d5ffd8;
-  padding: 2rem;
-  margin-top: 1rem;
-  padding-top: 0.5rem;
 }
 
 #education {
   background-color: #b6c8ff;
-  padding: 2rem;
-  margin-top: 1rem;
-  padding-top: 0.5rem;
 }
 
 .employer {
@@ -153,29 +134,23 @@ footer p {
 
 #dangers {
   background-color: #feffd5;
-  padding: 2rem;
-  margin-top: 1rem;
-  padding-top: 0.5rem;
 }
 
 #preperation {
   background-color: #ffe9d5;
-  padding: 2rem;
-  margin-top: 1rem;
-  padding-top: 0.5rem;
 }
 
 #falling {
   background-color: #d5ffd8;
-  padding: 2rem;
-  margin-top: 1rem;
-  padding-top: 0.5rem;
 }
 
 #landing {
   background-color: #b6c8ff;
+}
+
+section {
   padding: 2rem;
   margin-top: 1rem;
   padding-top: 0.5rem;
+  border-radius: 2rem;
 }
-
