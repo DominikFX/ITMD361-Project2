@@ -110,3 +110,43 @@ footer p {
   border: none;
   border-radius: 25px;
 }
+
+#contact {
+  background-color: #feffd5;
+  padding: 2rem;
+  margin-top: 1rem;
+  padding-top: 0.5rem;
+}
+
+#summary {
+  background-color: #ffe9d5;
+  padding: 2rem;
+  margin-top: 1rem;
+  padding-top: 0.5rem;
+}
+
+#work-experience {
+  background-color: #d5ffd8;
+  padding: 2rem;
+  margin-top: 1rem;
+  padding-top: 0.5rem;
+}
+
+#education {
+  background-color: #b6c8ff;
+  padding: 2rem;
+  margin-top: 1rem;
+  padding-top: 0.5rem;
+}
+
+.employer {
+  text-align: right;
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+
+.date {
+  padding-top: 0;
+  margin-top: 0.2rem;
+  text-align: right;
+}
