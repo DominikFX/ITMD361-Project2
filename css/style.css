@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Madimi+One&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
 body {
   font-family: 'Georgia', serif;
   background-color: #ffecec;
@@ -40,4 +42,38 @@ nav ul li a {
 
 nav ul li a:hover {
   background-color: #8b4848;
+}
+
+h1 {
+  font-family: 'Raleway';
+  font-weight: 900;
+  font-size: 2em;
+}
+
+h2 {
+  font-family: 'Raleway';
+  font-weight: 700;
+  font-size: 1.5em;
+  color: #323232;
+}
+
+p {
+  font-family: 'Arial', sans-serif;
+  color: #606060;
+}
+
+img {
+  width: 100%;
+}
+
+footer {
+  background-color: #d84e4e;
+  margin-top: 2%;
+  margin-bottom: 2%;
+  padding: 1rem;
+}
+
+footer p {
+  color: #fff;
+  text-align: center;
 }
