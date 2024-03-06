@@ -150,3 +150,32 @@ footer p {
   margin-top: 0.2rem;
   text-align: right;
 }
+
+#dangers {
+  background-color: #feffd5;
+  padding: 2rem;
+  margin-top: 1rem;
+  padding-top: 0.5rem;
+}
+
+#preperation {
+  background-color: #ffe9d5;
+  padding: 2rem;
+  margin-top: 1rem;
+  padding-top: 0.5rem;
+}
+
+#falling {
+  background-color: #d5ffd8;
+  padding: 2rem;
+  margin-top: 1rem;
+  padding-top: 0.5rem;
+}
+
+#landing {
+  background-color: #b6c8ff;
+  padding: 2rem;
+  margin-top: 1rem;
+  padding-top: 0.5rem;
+}
+
