@@ -64,6 +64,12 @@ p {
   padding: 5px;
 }
 
+.shift-img-right {
+  float: right;
+  padding: 1.5rem;
+  border-radius: 3rem;
+}
+
 img {
   max-width: 100%;
   border-radius: 2rem;
@@ -78,6 +84,7 @@ footer {
   margin-top: 2%;
   margin-bottom: 2%;
   padding: 1rem;
+  clear: both;
 }
 
 footer p {
@@ -106,6 +113,9 @@ footer p {
   max-width: 100%;
   border: none;
   border-radius: 25px;
+  float: left;
+  padding: 1.5rem;
+  padding-top: 0px;
 }
 
 #contact {
@@ -126,14 +136,21 @@ footer p {
 
 .employer {
   text-align: right;
+  padding: 1em;
+  padding-top: 0;
   padding-bottom: 0;
   margin-bottom: 0;
+  float: right;
+  clear: both;
 }
 
 .date {
+  padding: 1em;
   padding-top: 0;
   margin-top: 0.2rem;
   text-align: right;
+  float: right;
+  clear: both;
 }
 
 #dangers {
